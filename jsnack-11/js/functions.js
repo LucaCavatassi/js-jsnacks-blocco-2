@@ -7,4 +7,4 @@ function wordLength(string) {
     return string.length
 }
 
-console.log(wordLength("luca"));
+// console.log(wordLength("luca"));
