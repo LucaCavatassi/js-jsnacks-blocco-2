@@ -1,4 +1,5 @@
 // TEST
 const array = ["pippo", "pluto", "paperino"]
-
-console.log(stampa(array));
+let result = stampa(array)
+// console.log(stampa(array));
+console.log(result);
