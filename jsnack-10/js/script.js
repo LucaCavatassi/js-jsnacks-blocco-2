@@ -9,4 +9,8 @@
 
 const userNum = parseInt(prompt("Dimmi un numero!")); //NUMBER
 
-arrayGenerator (userNum);
+for (let i = 0; i < userNum; i++) {
+    let newArray = genereteArray ();
+    console.log(newArray);
+    console.log(printArray(newArray));
+}
